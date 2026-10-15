@@ -45,7 +45,21 @@ The extension's installation files and proprietary source code are not distribut
 **Website:** https://codum.tr
 
 **Chrome Web Store:** https://chromewebstore.google.com/detail/codum-social-tools/idcnaigkclmjnnnaojjoebkgmbeenfam
+![CODUM Social Tools](codum-github-assets/banner.png)
 
+## Explore CODUM Social Tools
+
+### Engagement
+![Engagement](codum-github-assets/engagement.png)
+
+### Account Cleanup
+![Cleanup](codum-github-assets/cleanup.png)
+
+### AI Autopilot
+![Autopilot](codum-github-assets/autopilot.png)
+
+### X Helper Tools
+![Tools](codum-github-assets/tools.png)
 ---
 
 © 2026 CODUM Social Tools. All rights reserved.
