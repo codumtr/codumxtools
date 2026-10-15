@@ -1,3 +1,7 @@
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Install_Now-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/codum-social-tools/idcnaigkclmjnnnaojjoebkgmbeenfam)
+
+
+
 # 🚀 CODUM Social Tools
 
 ### Smarter X (Twitter) Management Starts Here
